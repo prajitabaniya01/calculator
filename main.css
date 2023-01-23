@@ -13,6 +13,10 @@
     width: 220px;
     background-color: rgb(181, 147, 192);
     border: 3px solid black;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .buttons{
     display:flex;
